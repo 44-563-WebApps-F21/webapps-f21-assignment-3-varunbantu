@@ -1,3 +1,3 @@
 # WebApps-F21-Assignment-3
 Assignment 3 - Basic HTML
-"Hosted at"<file:///C:/Users/S545111/Documents/webapps-repos/webapps-f21-assignment-3-varunbantu/index.html>
+"Hosted at"<https://44-563-webapps-f21.github.io/webapps-f21-assignment-3-varunbantu/>
